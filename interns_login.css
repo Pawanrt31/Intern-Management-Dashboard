@@ -1,0 +1,22 @@
+html{
+	height: 80%;
+}
+body{
+	background-image:  url("Colorful-Plait-Background.jpg");
+	/*background-color: #ffcce6;*/
+	/* align: center; */
+	align-items: center;
+	margin-top: 175px;
+	margin-left: 25%;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h5{
+	font-weight: 900;
+}
+.card{
+	align-self: auto;
+}
+.form-group h6{
+	font-weight: 900;
+}

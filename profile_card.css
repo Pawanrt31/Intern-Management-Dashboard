@@ -1,0 +1,19 @@
+.container{
+    margin-top: 20px;
+    height: 50%;
+    
+}
+
+.container .card{
+    border: 3px solid rgb(4, 223, 33);
+    width: 300px;
+}
+
+.card-body{
+    background-color: aqua;
+    width: 400px;
+}
+
+.card{
+    height: 15rem;
+}

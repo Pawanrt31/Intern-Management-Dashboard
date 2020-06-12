@@ -1,0 +1,30 @@
+body{
+    /* background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-gY8e4-TR4RPU8yrKYUnCnIbsKFjb_uBJJ8K2OFRJsgEDmBZv&usqp=CAU"); */
+
+}
+
+.navbar-brand{
+    font-weight: 600;
+}
+
+.container{
+    margin-top: 10px;
+}
+
+/* .container .card{
+    border: 3px solid #ff80aa;
+    color: #ffccdd;
+    background-color: #ffccdd;
+} */
+
+.rounded-circle{
+    /* padding: 3px; */
+    width: 4rem;
+    margin-left: 15px;
+}
+
+.nav-link{
+  font-weight: 900;
+}
